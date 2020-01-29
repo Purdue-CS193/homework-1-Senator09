@@ -18,7 +18,10 @@ Syntax highlighted code block
 ### Header 3
 
 - Bulleted
-- List
+- Interesting
+- Cool TAs so far
+- Useful tool
+- Practical and essential class
 
 1. Numbered
 2. List
